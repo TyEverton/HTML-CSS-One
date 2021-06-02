@@ -1,0 +1,70 @@
+body {
+  margin: 0 auto;
+  background-color: white;
+}
+
+.header {
+  margin: 0 auto;
+  border: 5px solid black;
+  width: 95%;
+  margin-top: 20px;
+  height: 270px;
+}
+
+.box-one {
+  height: 155px;
+  width: 45px;
+  background-color: rgb(181, 81, 248);
+  margin-top: 100px;
+  margin-left: 15px;
+}
+
+.box-two {
+  height: 210px;
+  width: 470px;
+  background-color: green;
+  margin-left: 110px;
+  margin-top: -210px;
+}
+
+.circle-one {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(89, 206, 252);
+  border-radius: 50%;
+  margin-left: 35%;
+  margin-top: -210px;
+}
+
+.maincontent {
+border: 6px dotted black;
+height: 270px;
+width: 95%;;
+margin: 0 auto;
+margin-top: 25px;
+}
+
+.center-box { 
+  background-color: rgb(245, 235, 207);
+  margin: 0 auto;
+  height: 200px;
+  width: 95%;
+  margin-top: 30px;
+  box-shadow: 10px 9px 12px 2px #000000;
+}
+
+.box-four {
+  border: 1px solid rgba(139, 139, 139, 0.349);
+  margin: 0 auto;
+  width: 30%;
+  height: 335px;
+  margin-top: 15px;
+  box-shadow: 10px 9px 6px -5px rgba(0,0,0,0.44);
+}
+
+.text {
+  color: rgb(55, 55, 218);
+  text-align: center;
+  margin-top: 23%;
+  letter-spacing: 10px;
+}
